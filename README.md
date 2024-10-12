@@ -23,7 +23,7 @@
 
 ### 🖥️ Current Projects
 - **HR Portal**: A fully functional HR management system deployed on Vercel and Render. Managing employee data, leaves, complaints, and more.
-- **Unified Medical Records System (UMRS)**: Designing a secure and unified platform for patient and doctor records. Featuring dashboards, PERT charts, GANTT charts, and more.
+- **Unified Medical Records System (UMRS)**: Designing a secure and unified platform for patient and doctor records.
 
 
 ---
